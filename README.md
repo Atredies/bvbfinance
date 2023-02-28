@@ -10,7 +10,7 @@ bvbfinance is **not** affiliated, endorsed, or vetted by BVB. It's
 an open-source tool that uses BVBs publicly available website, and is
 intended for research and educational purposes.
 
-**You should refer to Yahoo!'s terms of use**
+**You should refer to BVB's terms of use**
 ([here](https://bvb.ro/Regulations/LegalFramework/BvbRegulations#)
 ---
 
